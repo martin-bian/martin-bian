@@ -1,6 +1,4 @@
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B!+;I'm+Martin.+I+do+open+source!" alt="Typing SVG" /></a>
-
-<p align="center"><a href="https://www.bianxf.com">Hello, I'm Martin. I do open source!</a></p>
+### <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B!+;I'm+Martin.+I+do+open+source!" alt="Typing SVG" /></a>
 
 <br />
 
