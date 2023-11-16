@@ -1,4 +1,4 @@
-### Hi there 👋
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B!+;I'm+Martin.+I+do+open+source!" alt="Typing SVG" /></a>
 
 <p align="center"><a href="https://www.bianxf.com">Hello, I'm Martin. I do open source!</a></p>
 
@@ -20,9 +20,9 @@ I'm a passionate developer from China
 | ------------- | ------------- |
 
 #### Top Repositories
-| <a href="https://github.com/martin-chips/DimpleBlog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=DimpleBlog&theme=buefy"/></a> | <a href="https://github.com/martin-chips/EAMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=EAMS&theme=buefy" /></a> |
+| <a href="https://github.com/martin-bian/DimpleBlog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=DimpleBlog&theme=buefy"/></a> | <a href="https://github.com/martin-bian/EAMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=EAMS&theme=buefy" /></a> |
 | ------------- | ------------- |
-|<a href="https://github.com/martin-chips/online_exam_system"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=online_exam_system&theme=buefy" /></a>||
+|<a href="https://github.com/martin-bian/online_exam_system"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=online_exam_system&theme=buefy" /></a>||
 
 <br />
 <br />
